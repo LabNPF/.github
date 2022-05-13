@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## GitHub for the Laboratory of Neuropsychophysiology (U.Porto, FPCE)
 Lab Website: https://www.fpce.up.pt/labpsi/
 
