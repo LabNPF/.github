@@ -1,4 +1,4 @@
-## GitHub for the Laboratory of Neuropsychophysiology (U.Porto, FPCE)
+### GitHub for the Laboratory of Neuropsychophysiology (U.Porto, FPCE)
 Lab Website: https://www.fpce.up.pt/labpsi/
 
 Lab GitHub under construction.
