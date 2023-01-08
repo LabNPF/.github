@@ -1,7 +1,7 @@
-### GitHub for the Laboratory of Neuropsychophysiology (U.Porto, FPCE)
+## GitHub for the Laboratory of Neuropsychophysiology (U.Porto, FPCE)
 Lab Website: https://www.fpce.up.pt/labpsi/
 
-The curation of the Lab's GitHub repositories is coordinated by Fernando Ferreira-Santos (@ferreira-santos).
+The curation of the Lab's GitHub repositories is coordinated by Fernando Ferreira-Santos ([@ferreira-santos](https://github.com/ferreira-santos)).
 
 
 <!--
